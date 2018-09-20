@@ -1,0 +1,27 @@
+<! DOCTYPE  html  PUBLIC  "- // W3C // DTD XHTML 1.0 Transitional // ES"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+< html  xmlns = " http://www.w3.org/1999/xhtml " >
+< head >
+< meta  http-equiv = " Content-Type "  content = " text / html; charset = iso-8859-1 " />
+< title > Listado 6-9.html. Ejemplo de m & eacute; todo haga clic en () </ title >
+</ head >
+ < cuerpo >
+< script  type = " text / javascript " >
+funtion click1 ()
+{
+ casilla de verificación1 . focus ();
+ casilla de verificación1 . click ();
+}
+funtion click2 ()
+{
+ casilla de verificación2 . focus ();
+ casilla de verificación2 . click ();
+ }
+< / script >
+< p >
+< input  type = " checkbox "  id = " checkbox1 "  value = " Casilla de verificación1 " />
+< button  onclick = " click1 (); " > Casilla de verificación Activar primer </ button >
+< input  type = " checkbox "  id = " checkbox2 value = " Checkbox2 "/ >
+< button  onclick = " click2 (); " > Activar segundo casilla de verificación </ button >
+</ p >
+</ body >
+</ html >

@@ -1,0 +1,23 @@
+* {margin: 0; padding: 0;}
+body{background-color: black; font-family: broadway;}
+#redes{position: fixed; right: 0; top: 420px; width: 30;}
+#contenedor{width: 960px; margin: 0 auto; height: auto; border: 1px solid;}
+#logo{width: 19%; float:  left; color: green; font-size: 25px; background: url(../IMG/Spotify-App-Icon-Large.png) no-repeat left center; padding-left: 6%}
+#menu{width: 75%; float: right; text-align: right; }
+#menu ul{list-style-type: none;}
+#menu ul li #login{color: white;}
+#menu ul li #signup{color: white;}
+#menu ul li{display:  inline-block; padding-top: 10px}
+#menu ul li a{color: green; text-decoration: none; padding: 5px 20px; font-size: 13px;}
+#menu ul li a:hover{border-bottom: 2px solid white;}
+#cabecera{position: relative; padding-top: 20px;}
+#cabecera hr{border: none; color: white; border-top: 1px solid; margin: 25px 0;}
+#mensaje{clear: both; text-align: center; height: 150px; position: relative; color: white;}
+#mensaje h2{position: relative; font-size: 32px; text-transform: uppercase; font-weight: normal; top: 50px;}
+#mensaje p{position: relative; font-size: 18px; top: 60px; letter-spacing: 4px;}
+#principal{color: white; top: 10px;}
+#principal h1 a{color: white; text-decoration: underline;}
+#principal p{font-size: 15px; letter-spacing: 1px; line-height: 2;}
+#principal embed{width: 720px; height: 480px}
+#pie{background: gray; text-align: center; position: relative; }
+#pie p{color: white; font-family: arial;}

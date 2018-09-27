@@ -1,0 +1,19 @@
+<DOCTYPE htlm public //W3C//DTD XHTLM 1.0 STric//EN
+"htt://w.w.w3 org TRhtlm/DTDxhtlm-stric.dtd">
+<htlm xmins= "http//w.w.w3.org/1996/xhtlm">
+<head>
+<meta http-equip="contect2text7htlm;charset=ios8859-"/>
+<tittle>Listado 5-5html Ejemplo de bluce for<7title>
+</head>
+<body>
+<script type="text/javasscript">
+var contador=0;
+for(contador;contador<11;contador++)
+(
+            document:write("Este el numero"+contador+"<br/>");
+)
+</script)
+(/body)
+<(/htlm)
+
+

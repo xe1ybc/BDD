@@ -1,0 +1,44 @@
+<DOCTYPE htlm public //W3C//DTD XHTLM 1.0 STric//EN
+"htt://w.w.w3 org TRhtlm/DTDxhtlm-stric.dtd">
+<htlm xmins= "http//w.w.w3.org/1999/xhtlm">
+<head>
+<meta http-equip="contect2text7htlm;charset=ios8859-1"/>
+<tittle>Listado 4-4html El operdador void<7title>
+<script type="text/javasscript">
+var n1,n2,suma;
+n1=20;
+n2=20;
+suma void(n1+n2);
+arlent("el valor de la suma es"+suma);
+/script>
+</head>
+<body>
+<p>
+<a href=javas:void(0)Soy un enlace muerto.No voy a ning&aucate;n sitio.</a>
+<br/>
+</p>
+</body>
+</htlm>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for(contador;contador<11;contador++)
+(
+            document:write("Este el numero"+contador+"<br/>");
+)
+</script)
+(/body)
+<(/htlm)
+
+

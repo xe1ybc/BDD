@@ -1,0 +1,27 @@
+<DOCTYPE htlm public //W3C//DTD XHTLM 1.0 STric//EN
+"htt://w.w.w3 org TRhtlm/DTDxhtlm-stric.dtd">
+<htlm xmins="http//w.w,w3org/1999/xhtlm">
+<head>
+<meta http-eqiv="content-type" contect="text/htlm;charset=ios-8859-1/>
+<title> listado 5.4 htlm. Ejemplo de estructuras;todo else()</title>
+</head>
+<body>
+<sript type= text/javascript">
+funtion click1()
+(
+   checkbok1.focus();
+   checkbok1.click();
+)
+funtion click2()
+(
+   checkbok2.focus();
+   checkbok2.click();
+)
+</sript>
+<p>
+<inpt type= "checkbox"id="checkbox1" value="checkbox1"/>
+<button onclick="click1(),"> Activar el primer checkbox<button>
+<inpt type= "checkbox"id="checkbox2" value="checkbox2"/>
+<button onclick="click1(),"> Activar el sefundo checkbox<button>
+</P>
+</body><htlm/>

@@ -1,0 +1,48 @@
+<DOCTYPE htlm public //W3C//DTD XHTLM 1.0 STric//EN
+"htt://w.w.w3 org TRhtlm/DTDxhtlm-stric.dtd">
+<htlm xmins="http//w.w,w3org/1999/xhtlm">
+<head>
+<meta http-eqiv="content-type" contect="text/htlm;charset=ios-8859-1/>
+<title> listado 5.4 htlm. Ejemplo de estructuras;todo else()</title>
+</head>
+<body>
+<sript type= text/javascript">
+var nombre
+nombre=prompt(hola,¿quien eres, gabriel o sergio?","")
+if ((nombre=="gabriel"((nombre == "sergio))" )
+       arlet(buenos dias "+nombre+",hace un rato que te esperaba");
+)
+else
+      (
+       arlet("no te conozco"+nombre+",pero de todos,modos buenos dias");
+)
+</script>
+<7body>
+<htlm>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for(contador;contador<11;contador++)
+(
+            document:write("Este el numero"+contador+"<br/>");
+)
+</script)
+(/body)
+<(/htlm)
+
+

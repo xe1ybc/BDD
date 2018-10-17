@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC"-//W3W//DTD XHTML 1.0  Stric//EN"
+"http://wwww.w3.org/TR/xhtml1/DTD/xhtml1-stric.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equi´v="Content-Type" content="text/html; charset =iso-8859-1/>
+<title>listado 18.3.html.Ejemplo de posicionamientos</title>
+<style type="text/css">
+body{text-align:center;padding-top:100px;}
+#caja_master{
+	position:relative;
+	margin:0 uto;
+	height:450px;
+	width:50%;
+	background-color:#ddd111;
+	border:1px solid #aaaaaa;}
+#absoluta{
+	position:absolute;
+	bottom:0;
+	right:0;
+	height:100px;
+	width:100px;
+	background-color:#123111;
+	border:1px solid #80BC3A;
+	margin-bottom:30px;}
+#estatica{
+	position:statc;
+	margin:0 auto;
+	height:20%;
+	width:94%;
+	background-color:#41B8E5;
+	border:1px solid #328EB2;
+	margin-bottom:30px;
+} 
+#estatica2{
+	position:static;
+	margin:0 auto;
+	height:20%;
+	width:94%;
+	background-color:#ff0032;
+	border:1px solid #BCB43A;	
+	margin:30px;
+}
+</style>
+</head>
+<body>
+<div id="caja_master">
+<h1 style="padding:10px; font:18px Arial; color:#ffffff;">POSICIONAMIENTOS</h1>
+<p style="padding:10px; font:16px Arial; color:#ffffff;">caja_master(posici&oacute;n relativa)</p>
+
+<div id="absoluta">
+<p style="padding:10px; font:16px Arial; color:#80BC3A;">Posici&oacute;n absoluta</p>
+</div>
+
+<div id="estatica">
+<p style="padding:10px; font:16px Arial; color:#328EB2;">Posici&oacute;n est&aacute;tica</p>
+</div>
+<div id="estatica2">
+<p style="padding:10px; font:16px Arial; color:#BCB43A;">Posici&oacute;n est&aacute;tica</p>
+</div>
+</div>
+</body>
+</html>

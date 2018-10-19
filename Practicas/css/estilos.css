@@ -1,0 +1,11 @@
+body{background-color: dimgrey; color: white;}
+#contenedor{width: 1220px; margin: 0 auto; height: auto; border-top: none; border-bottom: none; border-left: 5px solid limegreen; border-right: 5px solid limegreen;}
+#contenedor1{width: 640px; margin: 0 auto; height: auto; border-top: none; border-bottom: none; border-left: 5px solid limegreen; border-right: 5px solid limegreen;}
+#titulo{text-align: center;}
+#titulo1{width: 480px; margin: 0 auto; height: auto; border: 1px solid; background-color: limegreen; text-align: center;}
+#dos{font-family: 'Courgette', cursive;}
+#linea{width: 480px; margin: 0 auto; height: 5px; border: 1px solid; background-color: limegreen;}
+#poemas{font-family: 'Courgette', cursive;}
+#titulo2{width: 480px; margin: 0 auto; height: auto; border: 1px solid; background-color: limegreen; text-align: center;}
+#resaltado{font-size: 30px;}
+#resaltado1{font-size: 30px;}

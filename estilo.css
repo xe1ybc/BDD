@@ -1,0 +1,36 @@
+#encabezado { text-align: center;}
+
+#contenedor { margin: 0 auto; 
+	         height: auto; 
+	         border-top: none; 
+	         border-bottom: none; 
+	         border-left: 3px solid green; 
+	         border-right: 3px solid green;
+	         width: 1200px; }
+
+#titulo {margin: 0 auto; 
+	     height: auto; 
+	     width: 500px;  
+	     background-color: green; 
+	     text-align: center;}
+
+#parrafo1 { font-family: 'Lucida Calligraphy', cursive;}
+
+#parrafo2 { font-family: 'Lucida Calligraphy', cursive;}
+
+#contenedor_dos { margin: 0 auto; 
+	             height: auto; 
+	             border-top: none; 
+	             border-bottom: none; 
+	             border-left: 3px solid green;
+	             width: 760px;}
+
+#titulo2 {width: 500px; 
+	     margin: 0 auto; 
+	     height: auto;  
+	     background-color: green; 
+	     text-align: center;}
+
+#resaltar {font-size: 25px;}
+
+#resaltar2 {font-size: 25px;}

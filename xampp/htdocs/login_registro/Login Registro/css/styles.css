@@ -1,0 +1,170 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #FFFFFF ;
+  color:#17202A;
+}
+
+
+header{
+  width: 100%;
+  color: #ABEBC6;
+  display: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  background-color: rgba(86, 186, 239)
+ 
+
+}
+
+h1{
+  color: #17202A;
+  text-align: center;
+  font-size: 15px
+  top: 50%;
+  left: 50%;
+}
+
+
+
+.titulo {
+  font-weight: 300;
+  color: #B8711B;
+  text-align: center;
+  margin: 60px 0 30px 0;
+}
+.titulo2{
+    color: #17202A;
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+.login-box{
+  
+    background: #FFF;
+    color: #85C1E9;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    border-radius: 25px;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+   display: inline-block;
+}
+
+.contenid0{
+  
+    background: #FFF;
+    color: #85C1E9;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    border-radius: 25px;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+   display: inline-block;
+}
+
+
+.imagen{
+
+
+   width:50px;
+   height:50px;
+   display:block;
+   margin:auto;
+}
+
+/* color de fondo del formulario*/
+/* .formulario {
+  background: #2C2C47;
+  padding: 30px;
+  margin-bottom: 30px;
+}*/
+/* separacion de ariba de las cjas osea un espacio entre ambas */
+.formulario .form-group {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* ancho de las cajas de texto del formulario*/
+.formulario input[type="text"],
+.formulario input[type="password"] {
+  padding: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  border: none;
+  border-bottom: 1px solid #85C1E9;
+  outline: none;
+  background: transparent;
+  vertical-align: top;
+}
+
+.login-box input[type="submit"]
+{
+    border: none;
+    outline: none;
+    top: 300px;
+    height: 50px;
+    width: 160px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 15px;
+    position: absolute;
+  }
+
+  .registra
+{
+    
+    position: absolute;
+     
+   margin-top:60px; left: 50px;
+  }
+
+.login-box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #85C1E9  ;
+    color: #FDFEFE  ;
+}
+
+
+
+
+
+
+a {
+  text-decoration: none;
+    font-size: 14px;
+    color:#2E86C1;
+    position: relative;
+  top: 58px;
+  left: 150px;
+   
+   
+}
+
+
+
+a:hover {
+  text-decoration: underline;
+ 
+}
+
+
+

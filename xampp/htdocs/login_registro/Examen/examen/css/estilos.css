@@ -1,0 +1,187 @@
+body
+{
+	font-family: Bradley Hand ITC;
+	color: #6d6e70;
+	font-size: 12px;
+	margin: 45px;
+	background-color: #566573  ;
+
+}
+h1, h2, p {
+	
+	color:white;
+}
+h2{
+	font-family: Angsana New
+	font-size: 20px;
+}
+#contenido-principal
+{
+	position: relative;
+	display: block;
+	width: 900px;
+	background-color: #696969;
+	margin: 0 auto;
+}
+
+header, footer, #contenido
+{
+	position: relative;
+	display: block;
+}
+
+#contenido
+{
+	overflow: auto;
+}
+
+header
+{
+	background-color: #ccc;
+}
+
+footer
+{
+	height: 33px;
+	background-color: #00adee;
+}
+
+nav
+{
+	position: relative;
+	display: block;
+	background-color: #00adee;
+	height: 51px;
+}
+
+nav a
+{
+	position: relative;
+	display: inline-block;
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 10px;
+	margin-top: 8px;
+}
+
+nav a:hover
+{
+	color: #404041;
+	background-color: #fff;
+}
+
+
+
+
+
+
+.columna-introduccion
+{
+	position: relative;
+	display: block;
+	float: left;
+	width: 50%;
+	padding: 30px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border-right: black;
+	border-left:black;
+	box-sizing: border-box;
+}
+
+.columna-introduccion h1,
+.columna-introduccion h2
+{
+	position: relative;
+	display: block;
+	margin: 0 0 5px;
+	font-weight: normal;
+	background-color: green; 
+}
+
+.columna-introduccion h1
+{
+	font-size: 36px;
+}
+
+.columna-introduccion h2
+{
+	font-size: 18px;
+}
+
+.columna-introduccion p
+{
+	margin: 0 0 25px;
+}
+
+.columna-introduccion *
+{
+	padding-left: 40px;
+}
+
+
+.border {
+	border
+	border:none;
+	margin-bottom: 20px; 
+	border-top:20px solid green;
+	width: 50%;
+    
+	background: none;
+	color:none;
+
+}
+.titulo {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	color: #ECF2F4;
+	text-align: center;
+	font-weight: bold;
+	margin: 60px 0 30px 0;
+}
+
+LI{
+		color:black;
+		
+		margin:12px 12px 12px 12px;
+		padding:12px 0px 12px 12px;
+		list-style:none;
+	}
+	LI.whitborder{
+		border-style:solid;
+		border-width: medium;
+		border-top: black;
+		border-bottom:  black;
+	}
+
+	.segundo{
+	font-family: Angsana New;
+	font-size: 18px;
+	text-align: justify;
+}
+
+}
+.linea{
+	column-count: 4;
+	column-gap: 100px;
+	column-rule: 100px double black;
+	list-style: double;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

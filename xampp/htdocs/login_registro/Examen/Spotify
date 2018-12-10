@@ -1,0 +1,65 @@
+<html>
+<head>
+<title> Spotify </title>
+</head>
+
+<body bgcolor="Black"  marginheight ="50" marginwidth="50" text= "white" ><center><b><font face="Verdana" size ="20"> Toma el control de tu Musica</b></center>
+
+
+
+<center>  <table border = "5" "bgcolor="writhe"  >
+<tr> 
+
+<td>Registrate</td>
+<td>Inicio de Sesion </td>
+<td>Ayuda</td>
+<td>Descargar</td>
+<td><center> <a href= "https://www.facebook.com/login.php?skip_api_login=1&api_key=174829003346&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Faccounts.spotify.com%252Fapi%252Ffacebook%252Foauth%252Faccess_token%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%26client_id%3D174829003346%26ret%3Dlogin%26logger_id%3D37236820-2a2e-048b-50e2-6528324e3b72&cancel_url=https%3A%2F%2Faccounts.spotify.com%2Fapi%2Ffacebook%2Foauth%2Faccess_token%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%23_%3D_&display=page&locale=es_LA&logger_id=37236820-2a2e-048b-50e2-6528324e3b72"<a/></td>
+
+</tr>
+
+
+
+ </table></center>
+<center> <font face="Arial" size ="3"> <a href ="https://www.facebook.com/login.php?skip_api_login=1&api_key=174829003346&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Faccounts.spotify.com%252Fapi%252Ffacebook%252Foauth%252Faccess_token%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%26client_id%3D174829003346%26ret%3Dlogin%26logger_id%3D37236820-2a2e-048b-50e2-6528324e3b72&cancel_url=https%3A%2F%2Faccounts.spotify.com%2Fapi%2Ffacebook%2Foauth%2Faccess_token%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%23_%3D_&display=page&locale=es_LA&logger_id=37236820-2a2e-048b-50e2-6528324e3b72">Registrate Por Facebook </a></center>
+<div class="Logo">  
+
+<img src="descarga.png" alt="2"
+</div>
+
+</body>
+
+
+<html><html>
+<head>
+<title> Spotify </title>
+</head>
+
+<body bgcolor="Black"  marginheight ="50" marginwidth="50" text= "white" ><center><b><font face="Verdana" size ="20"> Toma el control de tu Musica</b></center>
+
+
+
+<center>  <table border = "5" "bgcolor="writhe"  >
+<tr> 
+
+<td>Registrate</td>
+<td>Inicio de Sesion </td>
+<td>Ayuda</td>
+<td>Descargar</td>
+<td><center> <a href= "https://www.facebook.com/login.php?skip_api_login=1&api_key=174829003346&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Faccounts.spotify.com%252Fapi%252Ffacebook%252Foauth%252Faccess_token%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%26client_id%3D174829003346%26ret%3Dlogin%26logger_id%3D37236820-2a2e-048b-50e2-6528324e3b72&cancel_url=https%3A%2F%2Faccounts.spotify.com%2Fapi%2Ffacebook%2Foauth%2Faccess_token%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%23_%3D_&display=page&locale=es_LA&logger_id=37236820-2a2e-048b-50e2-6528324e3b72"<a/></td>
+
+</tr>
+
+
+
+ </table></center>
+<center> <font face="Arial" size ="3"> <a href ="https://www.facebook.com/login.php?skip_api_login=1&api_key=174829003346&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Faccounts.spotify.com%252Fapi%252Ffacebook%252Foauth%252Faccess_token%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%26client_id%3D174829003346%26ret%3Dlogin%26logger_id%3D37236820-2a2e-048b-50e2-6528324e3b72&cancel_url=https%3A%2F%2Faccounts.spotify.com%2Fapi%2Ffacebook%2Foauth%2Faccess_token%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DAQCI0VmvSppHaO7SBhUJX5DjOSmVUkWjfPueD8YqLyTZS0aLEbjVwFauO8x7-d92fayDVTvxwyUSjBAYViDb81_2tMJuC-_M_LoYx9bROf2tzFjFyNe_Du8biGG9qsuh79Pna7E%23_%3D_&display=page&locale=es_LA&logger_id=37236820-2a2e-048b-50e2-6528324e3b72">Registrate Por Facebook </a></center>
+<div class="Logo">  
+
+<img src="descarga.png" alt="2"
+</div>
+
+</body>
+
+
+<html>

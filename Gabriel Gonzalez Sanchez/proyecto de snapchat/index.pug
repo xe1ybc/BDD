@@ -1,0 +1,37 @@
+div#area
+ div.master-card
+  div.card
+   div.title CREDIT CARD
+   div.input-number
+    span.title-number CARD NUMBER
+    div.inputs-number
+     input(type="text", maxlength="4", name="number-card", placeholder="0000",required)
+     input(type="text", maxlength="4", name="number-card", placeholder="0000",required)
+     input(type="text", maxlength="4", name="number-card", placeholder="0000",required)
+     input(type="text", maxlength="4", name="number-card", placeholder="0000",required)
+    div.selects-date.selecters
+     div.day-select
+      span DAY
+      select#dates
+       - for (var x = 01; x < 31; x++)
+            option(value="")= x
+     div.year-select
+      span YEAR
+      select#dates
+       - for (var x = 17; x < 27; x++)
+           option(value="")= x
+   div.mark-gold
+    div.round
+     div.circles
+       div.circle-1 
+       div.circle-2 
+   div.name
+    span JEAN O IMPSUM
+  div.card-back
+   div.tire
+   div.secret-area
+    input(type="text", maxlength="3", name="number-card", placeholder="000",required)
+   div.chip-card
+ div.button-sent
+  button#back VOLTAR
+  button#continue CONTINUAR

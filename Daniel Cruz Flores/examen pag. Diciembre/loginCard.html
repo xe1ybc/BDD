@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Registrar Tarjeta</title>
+  <link rel="stylesheet" href="loginCardd.css">
+  <link rel="stylesheet" href="css/botstrap.css">
+
+</head>
+<body>
+  <div id="area">
+  <div class="master-card">
+    <div class="card">
+      <div class="title">CREDIT CARD</div>
+      <div class="input-number"><span class="title-number">CARD NUMBER</span>
+        <form action="conexion.php" method="POST">
+        <div class="inputs-number">
+          <input type="text" maxlength="4" name="numcarduno" placeholder="0000" required="required"/>
+          <input type="text" maxlength="4" name="numcarddos" placeholder="0000" required="required"/>
+          <input type="text" maxlength="4" name="numcardtres" placeholder="0000" required="required"/>
+          <input type="text" maxlength="4" name="numcardcuatro" placeholder="0000" required="required"/>
+        </div>
+        <div class="selects-date selecters">
+          <div class="day-select"><span>DAY</span>
+            <select name="dia" id="dates" >
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+              <option value="11" >11</option>
+              <option value="12" >12</option>
+              <option value="13" >13</option>
+              <option value="14" >14</option>
+              <option value="15" >15</option>
+              <option value="16" >16</option>
+              <option value="17" >17</option>
+              <option value="18">18</option>
+              <option value="19">19</option>
+              <option value="20">20</option>
+              <option value="21">21</option>
+              <option value="22">22</option>
+              <option value="23">23</option>
+              <option value="24">24</option>
+              <option value="25">25</option>
+              <option value="26">26</option>
+              <option value="27">27</option>
+              <option value="28">28</option>
+              <option value="29">29</option>
+              <option value="30">30</option>
+            </select>
+          </div>
+          <div class="year-select"><span>YEAR</span>
+           <select name="ano" id="dates">
+              <option value="17">17</option>
+              <option value="18">18</option>
+              <option value="19">19</option>
+              <option value="20" >20</option>
+              <option value="21" >21</option>
+              <option value="22" >22</option>
+              <option value="23" >23</option>
+              <option value="24" >24</option>
+              <option value="25" >25</option>
+              <option value="26" >26</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="mark-gold">
+        <div class="round">
+          <div class="circles">
+            <div class="circle-1"> </div>
+            <div class="circle-2"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="name"><span>JEAN O IMPSUM</span></div>
+    </div>
+    <div class="card-back">
+      <div class="tire"></div>
+      <div class="secret-area">
+        <input type="text" maxlength="3" name="tresultd" placeholder="000" required="required"/>
+      </div>
+      <div class="chip-card"></div>
+    </div>
+  </div>
+  <div class="button-sent">
+    <button id="back">VOLTEAR</button>
+    <button id="continue">CONTINUAR</button>
+  </div>
+</div>
+
+<input type="submit" value="enviar">
+</form>
+  <script src="bootstrap.css"></script>
+  <script src="js/jquery-3.3.1.slim.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+  
+</body>
+<script src="js/loginCarddd.js"></script>
+</html>

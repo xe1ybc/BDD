@@ -1,0 +1,21 @@
+body{
+	-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+li{
+	
+
+    font-family: Century Gothic;
+}
+h1{
+	text-align: center;
+    border: 2px #204F95 solid;
+    width:260px;
+    height: 48px;
+    box-shadow: 6px 6px 6px #204F95;
+
+}
+

@@ -1,0 +1,47 @@
+body{
+	background-color: #fafaf7;
+
+}
+h2{
+	background-color: #ffe854;
+	text-align: center;
+	font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+}
+.form{
+	position: relative;
+	width: 500px;
+	height: 600px;
+	padding-left: 20px;
+	padding-top: 15px;
+	border-radius: 20px;
+	margin: auto;
+}
+fieldset{
+	background-color: #f2f2f2;
+}
+input[type=text],[type=mail],[type=password] {
+	padding-left: 10px;
+	width: 300px;
+	height: 25px;
+	border-radius: 10px;
+	border-spacing: 5px;
+}
+input[type="submit"],[type="reset"]{
+	width: 100px;
+	height: 30px;
+	background-color: #fa8072;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	border-radius: 10px;
+	border: 0px;
+	font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+}
+label{
+	font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+	font-stretch: expanded;
+	padding-right: 25px;
+	padding-left: 10px;
+}
+
+
